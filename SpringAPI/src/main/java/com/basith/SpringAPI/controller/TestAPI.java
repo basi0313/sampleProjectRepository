@@ -9,8 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestAPI {
 
 	@GetMapping("check")
-	public String check() {
+	public String test() {
 		return "working";
 	}
+	
 	
 }
