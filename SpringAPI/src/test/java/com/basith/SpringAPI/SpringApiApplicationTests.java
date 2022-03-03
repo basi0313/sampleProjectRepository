@@ -1,10 +1,10 @@
-package com.basith.TEST;
+package com.basith.SpringAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringProjectApplicationTests {
+class SpringApiApplicationTests {
 
 	@Test
 	void contextLoads() {

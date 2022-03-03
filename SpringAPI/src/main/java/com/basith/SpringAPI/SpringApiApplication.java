@@ -1,13 +1,13 @@
-package com.basith.TEST;
+package com.basith.SpringAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringProjectApplication {
+public class SpringApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringProjectApplication.class, args);
+		SpringApplication.run(SpringApiApplication.class, args);
 	}
 
 }
